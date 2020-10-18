@@ -7,4 +7,8 @@ public class Patient {
 	String sex;
 	int height;
 
+	Patient(String nameFirst, String nameLast) {
+
+	}
+
 }
